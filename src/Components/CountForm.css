@@ -1,0 +1,32 @@
+.countdown-form{
+    width:150vh;
+    height: 50vh;
+    border: 2px solid black;
+    position: relative;
+    top: 10vh;
+    color: rgb(8, 101, 84);
+    margin-left: 5vh;
+}
+
+#heading{
+    text-align: center;
+}
+.form{
+    /* position: relative;
+    left: 50vh; */
+    padding: 5vh;
+    margin: 5vh;
+}
+.futureDateTime{
+    padding: 2px;
+    margin: 4px;
+}
+
+#btn{
+    margin: 2px 4px;
+    padding: 2px 4px;
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 4px;
+    color: white;
+}

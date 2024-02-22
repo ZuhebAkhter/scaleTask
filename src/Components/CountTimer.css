@@ -1,0 +1,61 @@
+.countdown-timer{
+    width:150vh;
+    height: 50vh;
+    border: 2px solid black;
+    position: relative;
+    top: 10vh;
+    color: rgb(8, 101, 84);
+    margin-left: 5vh;
+}
+
+.timerHead{
+    text-align: center;
+}
+
+.inputcount{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 2px 4px;
+}
+
+.showCounter{
+    margin-left: 4vh;
+    display: flex;
+}
+.cont{
+    margin: 2px;
+}
+.cont1{
+    margin: 2px;
+}
+#btn-cancel{
+    background-color: red;
+    padding: 2px 4px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 5px;
+    color: whitesmoke;
+}
+.counterall{
+margin: 5px;
+position: relative;
+/* left: 30px; */
+}
+
+.inputcount1{
+    margin: 10px;
+}
+
+#hou{
+    margin-right: 25px;
+    margin-left: 20px;
+}
+
+#min{
+    margin-right: 30px;
+}
+/* @media (min-width: 480px) {
+    .countdown-timer {
+        width: 100%;
+    }
+  } */
